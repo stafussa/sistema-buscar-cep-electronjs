@@ -1,0 +1,68 @@
+
+
+body{
+ 
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+font-family: 'poppins', sans-serif;
+}
+
+img {
+  width: 148px;
+  height: 118px;
+}
+
+.title {
+  font-size: 24px;
+  font-weight: bold;
+  color: #29292e;
+}
+hr {
+  width:105px;
+  height: 2px;
+  background-color: #e559f9;
+  border: none;
+
+}
+
+#formulario {
+  display: flex;
+  flex-direction:column;
+  margin-top: 80px;
+}
+
+  label{
+    font-weight:bold ;
+    font-size: 16px;
+    color: #29292e ;
+  }
+
+  input{
+    width: 320px;
+    height: 50px;
+    border-radius:8px ;
+    border: 1px,solid#a8a3a3;
+    padding:15px,16px,15px,16px;
+
+    font-size: 16px;
+    font-weight:regular;
+    color: #a8a8b3;
+    margin-top: 8px;
+  }
+
+  button{
+    background-color: #184680;
+    color: white;
+    padding: 10px;
+    border: nome;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 16px;
+  }
+
+    
+
+
+
